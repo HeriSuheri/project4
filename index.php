@@ -6,6 +6,6 @@
     <title>repo project4 dari local ke github(remote)</title>
 </head>
 <body>
-    
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum, error.</p>
 </body>
 </html>
